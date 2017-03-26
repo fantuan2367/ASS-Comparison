@@ -1,0 +1,5 @@
+﻿  ASS.cpp
+e:\开发文件\c++\ass comparison\ass comparison\ass.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+e:\开发文件\c++\ass comparison\ass comparison\ass.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+  ASS Comparison.vcxproj -> E:\开发文件\C++\ASS Comparison\Debug\ASS Comparison.exe
+  ASS Comparison.vcxproj -> E:\开发文件\C++\ASS Comparison\Debug\ASS Comparison.pdb (Full PDB)
